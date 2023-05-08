@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vacuityv
 - 👀 I’m interested in java/python/apple and dota2
-- 🌱 I’m currently learning springcloud
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on everything that I can help
 - 📫 How to reach me: vacuityv@icloud.com
 
